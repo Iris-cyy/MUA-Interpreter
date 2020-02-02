@@ -12,6 +12,4 @@ An interpreter for MUA, a programming language used in PPL course in ZJU
 
 <br>
 
-Document: 
-
-https://iris-cyy.github.io/Projects/2020-02-01/mua_interpreter/
+Find Document [here](https://iris-cyy.github.io/Projects/2020-02-01/mua_interpreter/)
